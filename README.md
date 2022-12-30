@@ -25,3 +25,9 @@
 #### git branch --> nos permite ver las ramas locales
 
 #### git merge feature/footer --> desde una rama x (ejemplo main) fusionamos los cambios de una rama diferente
+
+#### esta plataforma E-comerce esta en desarrollo, tiene descripcion de 2 productos los cuales son Pochita y Aki de vinilo.
+
+#### todos los botones de agregar al carro funcionana con JS, sumando 1 al contador.
+
+#### las paginas anexas todas son responsibas y tienen jquery.
