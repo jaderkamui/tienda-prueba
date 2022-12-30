@@ -26,6 +26,8 @@
 
 #### git merge feature/footer --> desde una rama x (ejemplo main) fusionamos los cambios de una rama diferente
 
+#### paginas funcionales, Nosotros, Descripcion Pochita, Descripcion AKi figura de vinilo
+
 #### esta plataforma E-comerce esta en desarrollo, tiene descripcion de 2 productos los cuales son Pochita y Aki de vinilo.
 
 #### todos los botones de agregar al carro funcionana con JS, sumando 1 al contador.
